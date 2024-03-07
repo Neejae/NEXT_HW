@@ -1,0 +1,126 @@
+body {
+    background-color: #fff;
+}
+mark {
+    color: #fff;
+    background: #f7941e;
+}
+li {
+    color: #e1ecf3;
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+    display: inline-block;
+    font-family: 'space mono';
+}
+a {
+    color: #e1ecf3;
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+    display: inline-block;
+    font-family: 'space mono';
+}
+
+header li {
+    color: #ffffff;
+    word-spacing: 30px;
+}
+img {
+    width: 45%;
+    padding: 20px;
+}
+.myinfo {
+    width: 40%;
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    width: 88%;
+    color: white;
+    /* background-color: aliceblue; */
+    margin: 0px;
+    border: 2px solid #f7941e;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 100px;
+}
+#contentWrapper {
+    margin: 10px;
+    width: 100%;
+}
+p {
+    font-size: 40px;
+    font-weight: 700;
+    color: #bc0948;
+    font-family: 'space mono';
+}
+strong {
+    color: #e67ba1;
+    background-color: #bc0948;
+}
+b {
+    color: #f7941e;
+}
+h3 {
+    text-align: center;
+    color: #f7941e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: rgb(138, 68, 184);
+    width: 500px;
+}
+.noDot {
+    list-style: none;
+    padding-top: 300px;
+}
+#title {
+    text-transform: uppercase;
+}
+header {
+    background-color: #8cc6dd8e;
+    border-bottom: 3px solid #000000;
+    position: fixed;
+    width: 1400px;
+    margin: 0px;
+    padding: 0px;
+}
+a:hover,
+li:hover {
+    color: #0e067d;
+}
+footer {
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica;
+    color: #505050;
+}
+#title p {
+    font-size: 100px;
+    font-family: 'Hahmlet';
+}
+.explain {
+    display: inline-block;
+    border: 1px solid #f5dede;
+    width: 1400px;
+}
+#title h2 {
+    color: #505050;
+}
+em {
+    color: #000000;
+}
+.detailinfo li {
+    font-size: 50px;
+    color: #8044a2;
+}
+ol li {
+    width: 15%;
+    margin: 10px;
+}
+ul li {
+    width: 20%;
+    margin: 3px;
+    text-align: center;
+}
